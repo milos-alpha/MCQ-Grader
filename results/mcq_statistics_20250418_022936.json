@@ -1,0 +1,34 @@
+{
+  "total_submissions": 3,
+  "average_score": 73.33333333333333,
+  "highest_score": 100.0,
+  "lowest_score": 60.0,
+  "median_score": 60.0,
+  "question_analysis": {
+    "1": {
+      "attempts": 3,
+      "correct": 3,
+      "correct_percentage": 100.0
+    },
+    "2": {
+      "attempts": 3,
+      "correct": 2,
+      "correct_percentage": 66.66666666666666
+    },
+    "3": {
+      "attempts": 3,
+      "correct": 2,
+      "correct_percentage": 66.66666666666666
+    },
+    "4": {
+      "attempts": 2,
+      "correct": 2,
+      "correct_percentage": 100.0
+    },
+    "5": {
+      "attempts": 3,
+      "correct": 2,
+      "correct_percentage": 66.66666666666666
+    }
+  }
+}
